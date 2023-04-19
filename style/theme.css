@@ -133,6 +133,7 @@ header {
 }
 @media (max-width: 1000px) {
     .Project2{
+        margin-right: 20%;
         color: red;
         background-color: red;
         height: 250px;
